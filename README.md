@@ -121,7 +121,11 @@ Use cases:
     print("it always executes")
 
 10. Modules and Packages:
-   - Explain the concepts of modules and packages in Python. How can you import and use a module in your script? Provide an example using the `math` module.
+   * Explain the concepts of modules and packages in Python. How can you import and use a module in your script? Provide an example using the `math` module.
+
+    - This is how you importe a module:
+      import math
+      print(math.pi)  # Output: 3.14
 
 11. File I/O:
     * How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
